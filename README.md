@@ -96,7 +96,7 @@ I'm a developer passionate about building scalable full-stack applications and e
 
 </div>
 
-> 📌 *Replace these with your actual pinned repos — go to your GitHub profile → "Customize your profile" → pin repositories.*
+
 
 ---
 
