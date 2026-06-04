@@ -100,18 +100,6 @@ I'm a developer passionate about building scalable full-stack applications and e
 
 ---
 
-## Learning Roadmap
-
-Things I'm actively working on right now:
-
-| Area | Goal | Progress |
-|------|------|----------|
-| 🧠 Deep Learning | CNNs, transformers, and neural net architectures | `████████░░` 45% |
-| ☁️ AWS | Solutions Architect Associate (SAA-C03) certification | `██████░░░░` 30% |
-| 🏗️ System Design | Distributed systems and scalability patterns | `███████████░` 55% |
-| ⚙️ MLOps | CI/CD for ML models, experiment tracking | `████░░░░░░` 20% |
-
----
 
 ## GitHub Stats
 
@@ -140,13 +128,13 @@ Things I'm actively working on right now:
 ## Journey
 
 ```
-2022  ──▶  Frontend foundations
+2023  ──▶  Frontend foundations
            Built first React apps, learned HTML/CSS, responsive design & Git
 
-2023  ──▶  Java DSA & Backend Engineering
+2024  ──▶  Java DSA & Backend Engineering
            Mastered data structures, algorithms, OOP · Built REST APIs with Express
 
-2024  ──▶  Full Stack + AI Development
+2025  ──▶  Full Stack + AI Development
            MERN stack, ML pipelines, cloud deployments & system design
 
 Now   ──▶  Deep Learning · Cloud Certifications · MLOps
@@ -158,9 +146,9 @@ Now   ──▶  Deep Learning · Cloud Certifications · MLOps
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/NirjanBarik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/nirjan_barik001/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/NirjanBarik)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/NirjanBarik)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/nirjanba5m1r)
 
 </div>
 
