@@ -88,11 +88,11 @@ I'm a developer passionate about building scalable full-stack applications and e
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **AI Web Assistant** | Intelligent web app leveraging LLMs for real-time user interaction and smart recommendations | React · Python · OpenAI |
-| 📈 **ML Prediction Engine** | Scikit-learn pipeline for data preprocessing, model training, and real-time prediction serving | Python · scikit-learn · Flask |
-| 🗄️ **MERN Dashboard** | Full-stack admin dashboard with auth, CRUD operations, and analytics views | MongoDB · Express · React · Node |
+| 🚀 Project | 💡 Description | 🛠 Tech Stack |
+|------------|----------------|--------------|
+| 🤖 **ResumeAI** | AI-powered resume analyzer with semantic resume-job matching, skill extraction, resume scoring, and analytics dashboard. | FastAPI · React · MongoDB · TensorFlow · NLP |
+| 🎭 **DeepfakeLens** | Deepfake detection platform delivering real-time video authenticity analysis using deep learning and MERN architecture. | MERN · Python · Deep Learning |
+| 📝 **Josify** | JSON formatter and validator with real-time formatting, syntax validation, analytics, and snippet management. | MERN Stack |
 
 </div>
 
