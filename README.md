@@ -1,23 +1,22 @@
 <div align="center">
 
-```
-███╗   ██╗██╗██████╗      ██╗ █████╗ ███╗   ██╗
-████╗  ██║██║██╔══██╗     ██║██╔══██╗████╗  ██║
-██╔██╗ ██║██║██████╔╝     ██║███████║██╔██╗ ██║
-██║╚██╗██║██║██╔══██╗██   ██║██╔══██║██║╚██╗██║
-██║ ╚████║██║██║  ██║╚█████╔╝██║  ██║██║ ╚████║
-╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+# Nirjan Barik
 
 ### Full Stack Developer · AI/ML Enthusiast · Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Python+%26+MERN+Stack+Developer;AI+%2F+ML+Explorer;Java+DSA+Practitioner;Building+Cool+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=480&lines=Python+%26+MERN+Stack+Developer;AI+%2F+ML+Explorer;Java+DSA+Practitioner;Building+Cool+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirjabarik04)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ig_nirjan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nirjan.barik.7)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nirjanbarik1@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=NirjanBarik&color=7F77DD&style=flat-square&label=Profile+Views)](https://github.com/NirjanBarik)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 > *"Code is poetry written for machines, read by humans."*
 
@@ -25,12 +24,13 @@ I'm a developer passionate about building scalable full-stack applications and e
 
 - 🔭 Currently building **AI-powered web applications**
 - 🌱 Deep-diving into **Machine Learning & Deep Learning**
-- 💡 Always exploring the intersection of **software engineering** and **intelligence**
+- 💡 Exploring the intersection of **software engineering** and **intelligence**
+- 🤝 Open to **collaborations, freelance, and full-time roles**
 - 📫 Reach me at **nirjanbarik1@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -46,6 +46,7 @@ I'm a developer passionate about building scalable full-stack applications and e
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & Databases**
 
@@ -54,7 +55,6 @@ I'm a developer passionate about building scalable full-stack applications and e
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 **AI / ML**
 
@@ -71,8 +71,7 @@ I'm a developer passionate about building scalable full-stack applications and e
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 **Design & Productivity**
 
@@ -85,25 +84,99 @@ I'm a developer passionate about building scalable full-stack applications and e
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
 <div align="center">
 
-![Nirjan's GitHub Stats](https://github-readme-stats.shion.dev/api?username=NirjanBarik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **AI Web Assistant** | Intelligent web app leveraging LLMs for real-time user interaction and smart recommendations | React · Python · OpenAI |
+| 📈 **ML Prediction Engine** | Scikit-learn pipeline for data preprocessing, model training, and real-time prediction serving | Python · scikit-learn · Flask |
+| 🗄️ **MERN Dashboard** | Full-stack admin dashboard with auth, CRUD operations, and analytics views | MongoDB · Express · React · Node |
+
+</div>
+
+> 📌 *Replace these with your actual pinned repos — go to your GitHub profile → "Customize your profile" → pin repositories.*
+
+---
+
+## Learning Roadmap
+
+Things I'm actively working on right now:
+
+| Area | Goal | Progress |
+|------|------|----------|
+| 🧠 Deep Learning | CNNs, transformers, and neural net architectures | `████████░░` 45% |
+| ☁️ AWS | Solutions Architect Associate (SAA-C03) certification | `██████░░░░` 30% |
+| 🏗️ System Design | Distributed systems and scalability patterns | `███████████░` 55% |
+| ⚙️ MLOps | CI/CD for ML models, experiment tracking | `████░░░░░░` 20% |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Nirjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirjanBarik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NirjanBarik&theme=tokyonight&hide_border=true&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NirjanBarik&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Contribution Graph
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirjabarik04)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig_nirjan)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nirjan.barik.7)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirjanbarik1@gmail.com)
+[![Nirjan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NirjanBarik&theme=tokyo-night&hide_border=true)](https://github.com/NirjanBarik)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NirjanBarik&color=00D9FF&style=flat-square&label=Profile+Views)
+</div>
+
+---
+
+## Journey
+
+```
+2022  ──▶  Frontend foundations
+           Built first React apps, learned HTML/CSS, responsive design & Git
+
+2023  ──▶  Java DSA & Backend Engineering
+           Mastered data structures, algorithms, OOP · Built REST APIs with Express
+
+2024  ──▶  Full Stack + AI Development
+           MERN stack, ML pipelines, cloud deployments & system design
+
+Now   ──▶  Deep Learning · Cloud Certifications · MLOps
+```
+
+---
+
+## Open Source & Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/NirjanBarik)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/NirjanBarik)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/NirjanBarik)
+
+</div>
+
+---
+
+## Let's Build Something Together
+
+<div align="center">
+
+I'm open to collaborations, freelance projects, and full-time opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirjabarik04)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirjanbarik1@gmail.com)
+
+---
+
+*"The best way to predict the future is to build it."*
 
 </div>
